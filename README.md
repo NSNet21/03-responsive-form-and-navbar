@@ -1,4 +1,4 @@
-# Responsive Form & Navbar Demo
+# 🖥️📱 Responsive Form & Navbar Demo
 
 A modern **Responsive Navbar + Login/Register Form** project built with **HTML, CSS, and JavaScript**, featuring animated transitions, smooth overlay effects, and adaptive layouts for all screen sizes.
 The theme system supports both **Dark / Light** modes with elegant color overlays and gradients.
