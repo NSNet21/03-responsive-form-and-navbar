@@ -1,7 +1,6 @@
 # 🖥️📱 Responsive Form & Navbar Demo
 
 A modern **Responsive Navbar + Login/Register Form** project built with **HTML, CSS, and JavaScript**, featuring animated transitions, smooth overlay effects, and adaptive layouts for all screen sizes.
-The theme system supports both **Dark / Light** modes with elegant color overlays and gradients.
 
 🔗 **Live Demo: [https://nsnet21.github.io/03-responsive-form-and-navbar/](https://nsnet21.github.io/03-responsive-form-and-navbar/)**
 
@@ -20,12 +19,6 @@ The theme system supports both **Dark / Light** modes with elegant color overlay
 ---
 
 ## 🚀 Features
-
-### 🎨 Theme System
-
-- Supports `data-theme="light"` and `data-theme="dark"`.
-- Color palette defined using CSS variables (`--primary`, `--accent`, etc.).
-- Includes smooth glowing accents for hover and focus effects.
 
 ### 🧭 Responsive Navbar
 
@@ -152,7 +145,6 @@ The theme system supports both **Dark / Light** modes with elegant color overlay
 
 - Practiced DOM manipulation using `add`, `remove`, and `toggle` for UI states.
 - Improved understanding of responsive layout design with `@media` queries.
-- Applied CSS variables for dark/light theme management.
 - Enhanced form interaction and animation handling in JavaScript.
 - Strengthened visual feedback skills with hover, transition, and glow effects.
-- Learned to organize clean, maintainable code structure across HTML, CSS, and JS.
+
